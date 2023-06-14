@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Outfit', sans-serif;
+font-family: 'Tangerine', cursive;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 85vh;
+}

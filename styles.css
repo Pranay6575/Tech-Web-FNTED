@@ -7,3 +7,8 @@ font-family: 'Tangerine', cursive;
     width: 100%;
     height: 85vh;
 }
+
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+}
